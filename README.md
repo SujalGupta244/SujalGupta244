@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I’m Sujal Gupta
-- 👀 I’m interested in frontend web development,football and reading books on different topics like personal finance, personal development, biographies and gita.
-- 🌱 I’m currently learning HTML5, CSS3, JS for web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in frontend web development.
+- 🌱 I’m currently learning Back end development.
+- 💞️ I’m looking to collaborate on frontend web projects.
+- 📫 How to reach me - through email - sujalgupta1221@gmail.com
 
 
 
