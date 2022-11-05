@@ -31,6 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SujalGupta244&icon=0&color=1)](https://visitcount.itsvg.in)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujalGupta244&theme=dark&hide_border=true&repo=Ecommerce-website)](https://github.com/SujalGupta244/Ecommerce-website)
 <!---
 SujalGupta244/SujalGupta244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
