@@ -37,6 +37,7 @@
 
   
   [![An image of @sujalgupta244's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalgupta244)](https://holopin.io/@sujalgupta244)
+  [![An image of @sujalguota244's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalguota244)](https://holopin.io/@sujalguota244)
 <!---
 SujalGupta244/SujalGupta244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
